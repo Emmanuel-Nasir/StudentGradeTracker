@@ -16,5 +16,14 @@
         "Score": 80
       }
     ]
+  },
+  {
+    "Name": "Emmanuel Ola",
+    "Grades": [
+      {
+        "Subject": "Coding",
+        "Score": 49
+      }
+    ]
   }
 ]

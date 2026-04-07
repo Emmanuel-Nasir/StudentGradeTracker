@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\OneDrive\\Desktop\\StudentGradeTracker\\StudentGradeTracker\\StudentGradeTracker.csproj": {}
+    "C:\\Users\\USER\\OneDrive\\Desktop\\StudentGradeTracker\\StudentGradeTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\OneDrive\\Desktop\\StudentGradeTracker\\StudentGradeTracker\\StudentGradeTracker.csproj": {
+    "C:\\Users\\USER\\OneDrive\\Desktop\\StudentGradeTracker\\StudentGradeTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\StudentGradeTracker\\StudentGradeTracker\\StudentGradeTracker.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\StudentGradeTracker\\StudentGradeTracker.csproj",
         "projectName": "StudentGradeTracker",
-        "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\StudentGradeTracker\\StudentGradeTracker\\StudentGradeTracker.csproj",
+        "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\StudentGradeTracker\\StudentGradeTracker.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\StudentGradeTracker\\StudentGradeTracker\\obj\\",
+        "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\StudentGradeTracker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"

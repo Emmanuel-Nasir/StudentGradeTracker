@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Desktop\StudentGradeTracker\bin\Debug\net10.0\StudentGradeTracker.exe
+C:\Users\USER\OneDrive\Desktop\StudentGradeTracker\bin\Debug\net10.0\StudentGradeTracker.deps.json
+C:\Users\USER\OneDrive\Desktop\StudentGradeTracker\bin\Debug\net10.0\StudentGradeTracker.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\StudentGradeTracker\bin\Debug\net10.0\StudentGradeTracker.dll
+C:\Users\USER\OneDrive\Desktop\StudentGradeTracker\bin\Debug\net10.0\StudentGradeTracker.pdb
+C:\Users\USER\OneDrive\Desktop\StudentGradeTracker\obj\Debug\net10.0\StudentGradeTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\StudentGradeTracker\obj\Debug\net10.0\StudentGradeTracker.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\StudentGradeTracker\obj\Debug\net10.0\StudentGradeTracker.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\StudentGradeTracker\obj\Debug\net10.0\StudentGradeTracker.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\StudentGradeTracker\obj\Debug\net10.0\StudentGradeTracker.sourcelink.json
+C:\Users\USER\OneDrive\Desktop\StudentGradeTracker\obj\Debug\net10.0\StudentGradeTracker.dll
+C:\Users\USER\OneDrive\Desktop\StudentGradeTracker\obj\Debug\net10.0\refint\StudentGradeTracker.dll
+C:\Users\USER\OneDrive\Desktop\StudentGradeTracker\obj\Debug\net10.0\StudentGradeTracker.pdb
+C:\Users\USER\OneDrive\Desktop\StudentGradeTracker\obj\Debug\net10.0\StudentGradeTracker.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\StudentGradeTracker\obj\Debug\net10.0\ref\StudentGradeTracker.dll
