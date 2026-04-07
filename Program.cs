@@ -1,6 +1,12 @@
 ﻿var tracker = new GradeTracker();
 tracker.LoadData();
 
+SimpleGrade demoGrade;
+demoGrade.Subject = "Demo";
+demoGrade.Score = 100;
+
+Console.WriteLine($"Struct Demo: {demoGrade.Subject} - {demoGrade.Score}");
+
 bool running = true;
 
 while (running)

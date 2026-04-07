@@ -51,12 +51,13 @@ public void AddStudent(string name)
     // Adds a grade for an existing student or creates a new student if not found
     public void AddGrade(string studentName, string subject, double score)
     {
-        var student = students.FindLast(s=> s.Name.ToLower() == studentName.ToLower());
+        var student = students.Find(s=> s.Name.ToLower() == studentName.ToLower());
         if (student == null)
-        {
-            Console.WriteLine($"Student '{studentName}' not found. Creating new student.");
-            return;
-        }
+{
+    Console.WriteLine($"Student '{studentName}' not found. Creating new student.");
+    student = new Student(studentName);
+    students.Add(student);
+}
         student.Grades.Add(new GradeEntry(subject, score));
         SaveData();
         Console.WriteLine($"Grade added for {studentName} in {subject} with score {score}");
