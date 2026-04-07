@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Emmanuel Nasir",
+    "Grades": [
+      {
+        "Subject": "C#",
+        "Score": 90
+      }
+    ]
+  },
+  {
+    "Name": "Olamide Aroyeun",
+    "Grades": [
+      {
+        "Subject": "C#",
+        "Score": 80
+      }
+    ]
+  }
+]
