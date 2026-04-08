@@ -18,7 +18,7 @@ loops, file I/O, and LINQ all working together. The grade tracker gave me a
 focused, practical target that touched the most important parts of the language
 in one project.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/V1s5kUacfyU)
 
 # Development Environment
 
